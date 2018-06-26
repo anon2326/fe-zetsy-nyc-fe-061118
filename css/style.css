@@ -33,3 +33,7 @@ h1 {
 	font-size: 80px;
 	font-family: 'Baskerville', serif;
 }
+
+img{
+	border: 5px #ccc solid;
+}
