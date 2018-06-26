@@ -18,6 +18,6 @@ body {
 }
 
 /* Write all remaining styles here */
-p{
-	width:50%
+p {
+	font-size: 12px;
 }
